@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Home"
+    tools:showIn="@layout/app_bar_new"
+    android:background="@drawable/logo2"
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="SPEED"
+        android:id="@+id/speed"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="147dp"
+        android:textColor="@color/colorPrimaryDark" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="25dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="DISTANCE"
+        android:id="@+id/distance"
+        android:layout_alignTop="@+id/speed"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textColor="@color/colorPrimaryDark"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_marginLeft="25dp"
+        android:text="CALORIES"
+        android:id="@+id/calories"
+        android:layout_below="@+id/speed"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="115dp"
+        android:textColor="@color/colorPrimaryDark"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_marginRight="25dp"
+        android:text="FREQ."
+        android:id="@+id/frequency"
+        android:layout_alignTop="@+id/calories"
+        android:layout_alignLeft="@+id/distance"
+        android:layout_alignStart="@+id/distance"
+        android:textColor="@color/colorPrimaryDark"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="65dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="DURATION"
+        android:id="@+id/duration"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/distance"
+        android:layout_alignEnd="@+id/distance"
+        android:textColor="@color/colorPrimaryDark" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="65dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/textViewSteps"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/speed"
+        android:layout_alignStart="@+id/speed"
+        android:text="STEPS"
+        android:textColor="@color/colorPrimaryDark" />
+
+    <ToggleButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New ToggleButton"
+        android:textOff="START WORKOUT"
+        android:textOn="STOP WORKOUT"
+        android:onClick="start"
+        android:id="@+id/toggleButton"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/distance"
+        android:layout_alignEnd="@+id/distance"
+        android:layout_alignLeft="@+id/calories"
+        android:layout_alignStart="@+id/calories" />
+
+    <Chronometer
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/chronometer"
+        android:layout_below="@+id/duration"
+        android:layout_alignRight="@+id/frequency"
+        android:layout_alignEnd="@+id/frequency"
+        android:textColor="@color/colorPrimaryDark" />
+
+</RelativeLayout>
+
+
+
+

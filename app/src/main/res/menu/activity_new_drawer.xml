@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/user"
+            android:title="User Data" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/progress"
+            android:title="User Progress" />
+        <item
+            android:id="@+id/gps"
+            android:icon="@drawable/progress"
+            android:title="GPSTracker" />
+        <item
+            android:id="@+id/map"
+            android:icon="@drawable/progress"
+            android:title="GeoLocator" />
+
+    </group>
+
+
+
+</menu>

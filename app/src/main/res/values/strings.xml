@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pedometer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_user_data">UserData</string>
+    <string name="title_activity_user_progress">UserProgress</string>
+    <string name="menu1">Home</string>
+    <string name="menu2">User Data</string>
+    <string name="menu3">User Progress</string>
+    <string name="title_activity_kya">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
