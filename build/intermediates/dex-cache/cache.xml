@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Gaya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_4bfc59c056d0e62690056f9e98c2592a022cd22b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c618dc1b60258258c92eaff8e6d8d78e2a783b6c">
+        <dex dex="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_679ffb4fd1640008aaa90be0c5d8cf6554360750/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b1620ac62bf900a10eff0ed6ae0c975350c1c6b5">
+        <dex dex="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e0d4675503adeeba67e8d15f8f7b062fc2ec4fdc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_372bf4c1147e423c86fe61eaf211f5cd83d3b9db/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_9367224c67c156baaa93ccdf2f202b8189bd6ba4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_62b95d7b6a626a6549990301464353e326c87a95/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_4f18439ca8d74ba1f108252a5f06cfb7b8bc0e6f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="23023656ba91dc12e963cf7d5682db5d2aba6262">
+        <dex dex="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-3.2.65_4043adf94e6c911f5ba6b95edf0c7c73bb32e4ca/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_c1d62dacb8024c38f031dead84dff0629bb247a7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_44ca04cdc31df4b74e05a99b9f7ecc2ddb282b04/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_99035e027fdb2806805701f3059ceda7144a58e4/classes.dex" />
+    </item>
+
+</items>

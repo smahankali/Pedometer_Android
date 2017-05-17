@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/Users/Gaya/Downloads/Pedometer_BMI/app/src/main/res/menu/home.xml"
+    },
+    {
+        "merged": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/res/merged/debug/menu/menu_home.xml",
+        "source": "/Users/Gaya/Downloads/Pedometer_BMI/app/src/main/res/menu/menu_home.xml"
+    },
+    {
+        "merged": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/res/merged/debug/menu/activity_new_drawer.xml",
+        "source": "/Users/Gaya/Downloads/Pedometer_BMI/app/src/main/res/menu/activity_new_drawer.xml"
+    }
+]

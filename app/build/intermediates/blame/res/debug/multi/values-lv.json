@@ -1,0 +1,862 @@
+[
+    {
+        "outputFile": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/res/merged/debug/values-lv/values-lv.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 119,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 119,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 107,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 107,
+                        "endOffset": 278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 122,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 122,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endColumn": 107,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 406,
+                        "endColumn": 107,
+                        "endOffset": 509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 564,
+                    "endColumn": 108,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 514,
+                        "endColumn": 108,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 85,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 85,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endColumn": 103,
+                    "endOffset": 858
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 103,
+                        "endOffset": 808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 863,
+                    "endColumn": 121,
+                    "endOffset": 980
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 813,
+                        "endColumn": 121,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 985,
+                    "endColumn": 81,
+                    "endOffset": 1062
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 935,
+                        "endColumn": 81,
+                        "endOffset": 1012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1067,
+                    "endColumn": 81,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1017,
+                        "endColumn": 81,
+                        "endOffset": 1094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1149,
+                    "endColumn": 84,
+                    "endOffset": 1229
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1099,
+                        "endColumn": 84,
+                        "endOffset": 1179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1234,
+                    "endColumn": 108,
+                    "endOffset": 1338
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1184,
+                        "endColumn": 108,
+                        "endOffset": 1288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1343,
+                    "endColumn": 111,
+                    "endOffset": 1450
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1293,
+                        "endColumn": 111,
+                        "endOffset": 1400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1455,
+                    "endColumn": 98,
+                    "endOffset": 1549
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1405,
+                        "endColumn": 98,
+                        "endOffset": 1499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1554,
+                    "endColumn": 110,
+                    "endOffset": 1660
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1504,
+                        "endColumn": 110,
+                        "endOffset": 1610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1665,
+                    "endColumn": 108,
+                    "endOffset": 1769
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1615,
+                        "endColumn": 108,
+                        "endOffset": 1719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1774,
+                    "endColumn": 104,
+                    "endOffset": 1874
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1724,
+                        "endColumn": 104,
+                        "endOffset": 1824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1879,
+                    "endColumn": 118,
+                    "endOffset": 1993
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1829,
+                        "endColumn": 118,
+                        "endOffset": 1943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1998,
+                    "endColumn": 98,
+                    "endOffset": 2092
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1948,
+                        "endColumn": 98,
+                        "endOffset": 2042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2097,
+                    "endColumn": 160,
+                    "endOffset": 2253
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3152,
+                        "endColumn": 160,
+                        "endOffset": 3308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2258,
+                    "endColumn": 164,
+                    "endOffset": 2418
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3313,
+                        "endColumn": 164,
+                        "endOffset": 3473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2423,
+                    "endColumn": 157,
+                    "endOffset": 2576
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3478,
+                        "endColumn": 157,
+                        "endOffset": 3631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2581,
+                    "endColumn": 134,
+                    "endOffset": 2711
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3636,
+                        "endColumn": 134,
+                        "endOffset": 3766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2716,
+                    "endColumn": 146,
+                    "endOffset": 2858
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 3771,
+                        "endColumn": 150,
+                        "endOffset": 3917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2863,
+                    "endColumn": 161,
+                    "endOffset": 3020
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2990,
+                        "endColumn": 161,
+                        "endOffset": 3147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3025,
+                    "endColumn": 133,
+                    "endOffset": 3154
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 133,
+                        "endOffset": 1219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3159,
+                    "endColumn": 161,
+                    "endOffset": 3316
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 161,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3321,
+                    "endColumn": 133,
+                    "endOffset": 3450
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 794,
+                        "endColumn": 133,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3455,
+                    "endColumn": 131,
+                    "endOffset": 3582
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 131,
+                        "endOffset": 789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3587,
+                    "endColumn": 176,
+                    "endOffset": 3759
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 176,
+                        "endOffset": 473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3764,
+                    "endColumn": 183,
+                    "endOffset": 3943
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 478,
+                        "endColumn": 183,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3948,
+                    "endColumn": 130,
+                    "endOffset": 4074
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 130,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4079,
+                    "endColumn": 176,
+                    "endOffset": 4251
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1958,
+                        "endColumn": 176,
+                        "endOffset": 2130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4256,
+                    "endColumn": 122,
+                    "endOffset": 4374
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1835,
+                        "endColumn": 122,
+                        "endOffset": 1953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4379,
+                    "endColumn": 194,
+                    "endOffset": 4569
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1640,
+                        "endColumn": 194,
+                        "endOffset": 1830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4574,
+                    "endColumn": 117,
+                    "endOffset": 4687
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1522,
+                        "endColumn": 117,
+                        "endOffset": 1635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4692,
+                    "endColumn": 147,
+                    "endOffset": 4835
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2135,
+                        "endColumn": 147,
+                        "endOffset": 2278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4840,
+                    "endColumn": 262,
+                    "endOffset": 5098
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2411,
+                        "endColumn": 262,
+                        "endOffset": 2669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5103,
+                    "endColumn": 127,
+                    "endOffset": 5226
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2283,
+                        "endColumn": 127,
+                        "endOffset": 2406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5231,
+                    "endColumn": 110,
+                    "endOffset": 5337
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2674,
+                        "endColumn": 110,
+                        "endOffset": 2780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5342,
+                    "endColumn": 160,
+                    "endOffset": 5498
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1361,
+                        "endColumn": 160,
+                        "endOffset": 1517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5503,
+                    "endColumn": 136,
+                    "endOffset": 5635
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1224,
+                        "endColumn": 136,
+                        "endOffset": 1356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5640,
+                    "endColumn": 93,
+                    "endOffset": 5729
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2785,
+                        "endColumn": 93,
+                        "endOffset": 2874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5734,
+                    "endColumn": 109,
+                    "endOffset": 5839
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.2.65/res/values-lv/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2879,
+                        "endColumn": 109,
+                        "endOffset": 2984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5844,
+                    "endColumn": 100,
+                    "endOffset": 5940
+                },
+                "from": {
+                    "file": "/Users/Gaya/Downloads/Pedometer_BMI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/values-lv/values-lv.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2047,
+                        "endColumn": 100,
+                        "endOffset": 2143
+                    }
+                }
+            }
+        ]
+    }
+]
